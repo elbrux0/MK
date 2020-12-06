@@ -1,0 +1,142 @@
+
+body{
+  text-align: center;
+  margin: 0;
+}
+
+h1{
+  margin-top: 0;
+  padding-top: 70px;
+}
+
+h2{
+  margin-top:0;
+  padding-top:60px;
+}
+
+h4{
+  display: inline-block;
+  padding: 10px 80px 0 80px;
+  margin-top: 0;
+  color: black;
+}
+
+h4:hover{
+  color: darkblue;
+}
+
+hr{
+color: red;
+/* #bbbbbb*/
+width: 10%;
+border-style: dotted;
+border-width: 0 0 10px 0;
+margin-top: -10px;
+margin-bottom: 0;
+}
+
+img{
+  height: 300px;
+}
+
+.header{
+  padding-top: 10px;
+  left: 187.63px;
+  background-color: #f4f4f2;
+}
+
+.div-1{
+background-color: #ecfbfc;
+padding-bottom: 500px;
+}
+
+.traje-1{
+  position: absolute;
+  top: 200px;
+  left:200px;
+  height: 300px;
+}
+
+.traje-2{
+  position: absolute;
+  right: 200px;
+  top: 200px;
+  height: 300px;
+}
+
+.div-1-2{
+  background-color: #ecfbfc;
+  height: 600px;
+}
+
+.traje-3{
+  position: relative;
+  right: 150px;
+  top: 50px;
+}
+
+.traje-4{
+  position: relative;
+  left: 150px;
+  top: 50px;
+}
+
+.div-2{
+  background-color: #f1f9f9;
+  height: 600px;
+  padding-top: 10px;
+  padding-bottom: 150px;
+}
+
+.div-2-1{
+}
+
+.div-2-2{
+
+}
+
+.mascara{
+  float: left;
+  height: 150px;
+}
+
+.m{
+  margin-top: 100px;
+  margin-bottom: 250px;
+  padding: auto;
+  width: 80%;
+  text-align:left;
+
+}
+
+.brazalete{
+  float: right;
+  height: 150px;
+}
+
+.b{
+  text-align: right;
+}
+
+.div-3{
+  background-color: #e1f2fb;
+}
+
+.armario{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.div-4{
+  background-color: #effcef;
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+
+.contact-table{
+line-height: 2;
+padding-left: 550px;
+padding-top: 80px;
+align-items: center;
+text-align: left;
+}
