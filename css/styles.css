@@ -59,6 +59,7 @@ img {
 
 .logo_star{
   margin-top: 50px;
+
 }
 
 
@@ -122,4 +123,33 @@ img {
   background-color: #4e89ae;
   padding-top: 30px;
   padding-bottom: 10px;
+}
+
+.inicio{
+  color: black;
+  text-decoration: none;
+}
+
+.inicio:hover{
+  color: lightgray;
+}
+
+.pg_sanitario{
+  padding-bottom: 400px;
+}
+
+.tt_sanitario{
+  float: left;
+}
+
+.pg_seguridad{
+  padding-bottom: 400px;
+}
+
+.tt_seguridad{
+  float:left;
+}
+
+.pg_armario{
+  padding-bottom: 400px;
 }
