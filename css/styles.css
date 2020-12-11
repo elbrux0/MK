@@ -49,7 +49,7 @@ img {
 
 .div-1 {
   background-color: #e1f2fb;
-  padding-bottom: 300px;
+  padding-bottom: 200px;
 }
 
 .div-1-2 {
@@ -58,7 +58,7 @@ img {
 }
 
 .logo_star{
-  margin-top: 50px;
+  margin-top: 100px;
 
 }
 
@@ -199,4 +199,14 @@ img {
 
 .titulo_footer{
   margin-top: 80px;
+}
+
+.tt_nosotros{
+  margin-top: 30px;
+}
+
+.texto_nosotros{
+  margin: 50px auto 100px;
+  width: 80%;
+
 }
