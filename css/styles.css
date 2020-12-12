@@ -230,6 +230,48 @@ img {
   font-family: 'Open Sans', sans-serif;
 }
 
+.star_band_div{
+  height: 500px;
+}
+
+.img_star_band{
+  height: 200px;
+  float: left;
+  margin-top: 100px;
+  margin-right: 30px;
+  margin-left: 50px;
+}
+
+.texto_star_band{
+  font-family: 'Open Sans', sans-serif;
+  width: 80%;
+  text-align: left;
+  padding-top: 120px;
+}
+
+.img_traje_precio_1{
+  height: 80px;
+  margin-top: 100px;
+  padding-left: 15px;
+}
+
+.img_traje_precio_2{
+  height: 80px;
+  padding-right: 35px;
+}
+
+.img_armario_precio{
+  height: 80px;
+}
+
+.img_band_precio{
+  height: 50px;
+}
+
+.texto_precio{
+  margin-bottom: 100px;
+}
+
 .texto_pack{
   font-family: 'Open Sans', sans-serif;
   width: 80%;
