@@ -108,10 +108,11 @@ img {
   margin-top: 100px;
   margin-bottom: 150px;
   margin-left: 30px;
-  padding-top: 30px;
+  padding-top: 10px;
   width: 70%;
   text-align: left;
   line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .brazalete {
@@ -126,8 +127,10 @@ img {
   width: 60%;
   padding: auto;
   float: right;
-  margin-right: 30px;
+  margin-right: 5px;
   line-height: 1.5;
+  margin-top: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .div-3 {
@@ -168,16 +171,18 @@ img {
   padding-top: 50px;
   width: 80%;
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .texto_sanitario_1{
   width: 80%;
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .linky{
   color: black;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .linky:hover{
@@ -201,6 +206,7 @@ img {
   padding-top: 50px;
   width: 80%;
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .pg_armario{
@@ -213,18 +219,48 @@ img {
   margin: 80px auto 0 auto;
   line-height: 1.5;
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .texto_armario_1{
   width: 80%;
-  margin: 0 auto 0 auto;
+  margin: 5px auto 0 auto;
   line-height: 1.5;
   text-align: left;
+  font-family: 'Open Sans', sans-serif;
 }
 
+.texto_pack{
+  font-family: 'Open Sans', sans-serif;
+  width: 80%;
+  margin: 100px auto 135px auto;
+}
+
+.texto_faq{
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  margin-top: 50px;
+  width: 60%;
+}
+
+.faq_1{
+  margin-top: 100px;
+}
+
+.faq_medio{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+}
+
+.faq_final{
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
 
 .contacto{
   padding-bottom: 100px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .titulo_footer{
@@ -239,4 +275,5 @@ img {
   margin: 50px auto 100px;
   width: 80%;
   line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
 }
